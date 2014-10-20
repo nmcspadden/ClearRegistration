@@ -597,13 +597,6 @@
 				<key>PATH_TYPE</key>
 				<integer>1</integer>
 			</dict>
-			<key>CERTIFICATE</key>
-			<dict>
-				<key>NAME</key>
-				<string>3rd Party Mac Developer Installer: Schools of the Sacred Heart San Francisco (YU8E6Y684D)</string>
-				<key>PATH</key>
-				<string>/Users/nmcspadden/Library/Keychains/login.keychain</string>
-			</dict>
 			<key>EXCLUDED_FILES</key>
 			<array>
 				<dict>
